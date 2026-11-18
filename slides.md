@@ -34,9 +34,9 @@ import ContratchapIntro from './components/slides/intro.vue'
 ---
 
 <script setup>
-import ContratchapIntro from './components/slides/intro.vue'
+import SecondSlide from './components/slides/secondslide.vue'
 </script>
 
-<ContratchapIntro :bounces="5" />
+<SecondSlide />
 
 ---
