@@ -34,6 +34,14 @@ import ContratchapIntro from './components/slides/intro.vue'
 ---
 
 <script setup>
+import transitioncomp from './components/slides/transitioncomp.vue'
+</script>
+
+<transitioncomp />
+
+---
+
+<script setup>
 import SecondSlide from './components/slides/secondslide.vue'
 </script>
 
